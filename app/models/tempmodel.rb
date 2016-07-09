@@ -1,0 +1,2 @@
+class Tempmodel < ApplicationRecord
+end
